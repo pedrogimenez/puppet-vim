@@ -2,8 +2,6 @@
 
 Install [vim](http://www.vim.org/)
 
-[![Build Status](https://travis-ci.org/pedrogimenez/puppet-vim.png?branch=master)](https://travis-ci.org/pedrogimenez/puppet-vim)
-
 This package won't interfere the puppet-macvim package. 
 
 ## Usage
